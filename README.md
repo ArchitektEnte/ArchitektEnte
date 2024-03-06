@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArchitektEnte
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, HTML, CSS and JS
 - 📖 I‘m looking for friendly helper
 - 📫 You can reach me on DC: ArchitektEnte#4877
 
